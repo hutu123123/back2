@@ -1,7 +1,7 @@
 ﻿#!/usr/bin/env bash
 # 其他Paas保活
 PAAS1=https://green-block-9784.fdhggsdffhg.workers.dev/
-PAAS2=
+PAAS2=https://hkjlkl54-farhahmarbawi.b4a.run/
 PAAS3=
 
 # koyeb账号保活
